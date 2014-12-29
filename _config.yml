@@ -18,16 +18,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/nathanfdmusic
+  - title: youtube
+    url: https://www.youtube.com/channel/UCsyHT2stBeK8qc__e2XQzhQ
+  - title: twitter
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/loconate
+
 
 # Postal address (add as many lines as necessary)
 address:
