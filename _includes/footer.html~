@@ -22,7 +22,7 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Downloadable Resume</h3>
+                        <h3>Resume</h3>
                         <p>{{ site.credits }}</p>
                     </div>
                 </div>
@@ -32,7 +32,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Made with passion by Nathan Farrant-Diaz
+                        Made con pasión by Nathan Farrant-Diaz
                     </div>
                 </div>
             </div>
